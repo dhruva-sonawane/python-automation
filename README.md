@@ -1,20 +1,33 @@
-# Python Automation
+# Java DSA Practice
 
-A collection of Python scripts and tools designed to automate repetitive tasks and improve productivity.
+A comprehensive collection of Data Structures and Algorithms problems solved in Java.
 
-## Planned Projects
+## 📊 Progress
 
-- File Organizer
-- Bulk File Renamer
-- PDF Merger
-- Web Scraper
-- Email Automation
-- Data Processing Scripts
+- ✅ 90 Problems Solved
+- ✅ 9 Core Topics Covered
+- ✅ Organized Topic-Wise Structure
 
-## Purpose
+## 📚 Topics Covered
 
-This repository showcases practical automation solutions built with Python to solve everyday problems efficiently.
+- Arrays
+- Strings
+- Searching and Sorting
+- Recursion
+- Linked Lists
+- Stacks and Queues
+- Trees
+- Graphs
+- Dynamic Programming
 
-## Language
+## 🎯 Goal
 
-- Python
+Strengthening problem-solving skills and preparing for software engineering interviews through consistent practice and clean implementations.
+
+## 🛠️ Language Used
+
+- Java
+
+## 👨‍💻 Author
+
+Dhruva Sonawane
